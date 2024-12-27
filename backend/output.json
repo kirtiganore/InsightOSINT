@@ -1,0 +1,1686 @@
+{
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "Hackaday"
+            },
+            "author": "Maya Posch",
+            "title": "All You Need for Artificial Intelligence is a Commodore 64",
+            "description": "Artificial intelligence has always been around us, with [Timothy J. O\u2019Malley]\u2019s 1985 book on AI projects for the Commodore 64 being one example of this. With AI defined as being \u2026read more",
+            "url": "https://hackaday.com/2024/11/03/all-you-need-for-artificial-intelligence-is-a-commodore-64/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2024/11/commodore_64_artificial_intelligence_projects_book_omalley_featured.jpg",
+            "publishedAt": "2024-11-03T21:00:44Z",
+            "content": "Artificial intelligence has always been around us, with [Timothy J. O\u2019Malley]\u2019s 1985 book on AI projects for the Commodore 64 being one example of this. With AI defined as being the theory and develo\u2026 [+1987 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Todd Feathers",
+            "title": "Palantir Adds an AI Company to Its Arsenal for Military and Spy Work",
+            "description": "Palantir and Anthropic have signed a deal to bring Claude to the Pentagon.",
+            "url": "https://gizmodo.com/palantir-adds-an-ai-company-to-its-arsenal-for-military-and-spy-work-2000521508",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/11/palantir-anthropic-claude.jpg",
+            "publishedAt": "2024-11-07T16:20:30Z",
+            "content": "Further entrenching its position as spooks\u2019 and soldiers\u2019 go-to supplier for artificial intelligence, Palantir on Thursday announced that it will be adding Anthropic\u2019s Claude models to the suite of t\u2026 [+2757 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Andrew D. Johnson and Shyla Raghav",
+            "title": "Watch: The Good, the Bad, and the Maybe: Artificial Intelligence",
+            "description": "TIME Chief Climate Officer Shyla Raghav explores artificial intelligence and how it impacts energy use.",
+            "url": "https://time.com/7175088/artificial-intelligence-energy-use/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/11/ai-data-center-climate-change.jpg?quality=85&w=1200&h=628&crop=1",
+            "publishedAt": "2024-11-12T15:43:50Z",
+            "content": "By Shyla Raghav and Video By Andrew D. Johnson\r\nNovember 12, 2024 10:43 AM EST\r\nDid you know that the expansion of AI will require as much new energy as some countries? TIME Chief Climate Officer Shy\u2026 [+72 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Alex Bitter",
+            "title": "Watch the AI robots that Jeff Bezos just invested in fold laundry and put eggs in a carton",
+            "description": "Jeff Bezos just invested in an artificial intelligence startup creating digital brains for robots. The robots performed a variety of tasks in videos.",
+            "url": "https://www.businessinsider.com/jeff-bezos-invests-ai-robots-startup-physical-intelligence-2024-11",
+            "urlToImage": "https://i.insider.com/6728f0e388cea3ba1c1e16da?width=1200&format=jpeg",
+            "publishedAt": "2024-11-04T17:14:56Z",
+            "content": "Jeff Bezos is one of the investors in Physical Intelligence's latest funding round.Physical Intelligence\r\n<ul><li>Jeff Bezos just invested in an artificial intelligence startup creating digital brain\u2026 [+4528 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Kelsey Vlamis",
+            "title": "Amazon CEO Andy Jassy says he has a secret weapon in the AI wars",
+            "description": "Amazon CEO Andy Jassy said AWS, its cloud-computing unit, shows it's got the logistical know-how to succeed in artificial intelligence.",
+            "url": "https://www.businessinsider.com/amazon-ceo-andy-jassy-secret-weapon-ai-aws-2024-10",
+            "urlToImage": "https://i.insider.com/6724260d01ea6d83dee5911e?width=1200&format=jpeg",
+            "publishedAt": "2024-11-01T01:47:51Z",
+            "content": "CEO Andy Jassy talked up Amazon's investments in AI during Amazon's third-quarter earnings call.Rodin Eckenroth/WireImage\r\n<ul><li>Amazon CEO Andy Jassy said AWS gives the company a leg up in the AI \u2026 [+2579 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Lakshmi Varanasi",
+            "title": "Here's how far we are from AGI, according to the people developing it",
+            "description": "Artificial general intelligence is a theoretical form of AI that can reason as well as humans. AI researchers debate how close it is to reality.",
+            "url": "https://www.businessinsider.com/agi-predictions-sam-altman-dario-amodei-geoffrey-hinton-demis-hassabis-2024-11",
+            "urlToImage": "https://i.insider.com/67101c596ac7b701e7cca269?width=1200&format=jpeg",
+            "publishedAt": "2024-11-09T11:13:02Z",
+            "content": "Chen\r\n<ul><li>AGI, or artificial general intelligence, is a still-theoretical AI that can reason like humans.</li><li>Top researchers agree the leap to AGI is close but differ on just how close.</li>\u2026 [+4989 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Arxiv.org"
+            },
+            "author": null,
+            "title": "Artificial Intelligence for Quantum Computing",
+            "description": "Artificial intelligence (AI) advancements over the past few years have had an unprecedented and revolutionary impact across everyday application areas. Its significance also extends to technical challenges within science and engineering, including the nascent\u2026",
+            "url": "https://arxiv.org/abs/2411.09131",
+            "urlToImage": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+            "publishedAt": "2024-11-16T11:44:27Z",
+            "content": "arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\r\nBoth individuals and organizations that work with arXivLabs have embraced and acce\u2026 [+257 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Matt Novak",
+            "title": "Feds Say Evolv Is Over-Hyping AI Tech in Gun Detectors",
+            "description": "\u201cIf you make those claims without adequate support, you can expect to hear from the FTC.\u201d",
+            "url": "https://gizmodo.com/feds-say-evolv-is-over-hyping-ai-tech-in-gun-detectors-2000530288",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/11/evolv-ai-gun-detectors.jpg",
+            "publishedAt": "2024-11-26T18:40:27Z",
+            "content": "Evolv, the company behind a controversial \u201cartificial intelligence\u201d system used to detect guns on New York subways and in schools across the country, has been accused by the Federal Trade Commission \u2026 [+3057 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Bobby Allyn",
+            "title": "Traffic on Bluesky, an X competitor, is up 500% since the election. How will they handle the surge?",
+            "description": "Unlike other social media sites, Bluesky allows users to create their own algorithm. The site does not have ads, nor harvest data for artificial intelligence training. But it is still very small and has an unproven business record.",
+            "url": "https://www.npr.org/2024/11/19/g-s1-34898/bluesky-traffic-surge-after-election",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2250+0+953/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F54%2Fc0%2F70addfa6407aad497886efe84bdb%2Fbluesky-ceo-jay-graber-1.jpg",
+            "publishedAt": "2024-11-19T22:13:38Z",
+            "content": "The day after the presidential election, the social media landscape shook.\r\nOn Elon Musk's X, more than 115,000 users deactivated their accounts, the largest-ever mass exit from the platform. At the \u2026 [+8014 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Michel Martin",
+            "title": "Former Google CEO Eric Schmidt discusses the DOJ move to have Google sell off Chrome",
+            "description": "Michel Martin asks former Google CEO Eric Schmidt about the government's move to separate Google from its Chrome browser and the future of artificial intelligence as envisioned in the book \"Genesis.\"",
+            "url": "https://www.npr.org/2024/11/22/nx-s1-5199766/eric-schmidt-interview-the-justice-department-google-ai",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4774x2685+0+497/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F78%2F4d%2Fd2833d334bf49430257663acd7ad%2Fgettyimages-169460928.jpg",
+            "publishedAt": "2024-11-22T09:16:07Z",
+            "content": "The Department of Justice is pushing for Google to spin off its Chrome browser. In August, a landmark ruling found Google had violated antitrust laws by creating an illegal monopoly. Federal prosecut\u2026 [+6651 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ted.com"
+            },
+            "author": "Bob Mankoff, contact@ted.com (TED)",
+            "title": "Can AI master the art of humor? | Bob Mankoff",
+            "description": "Can artificial intelligence be funny, or is comedy a uniquely human trait? In this witty and insightful talk, cartoonist Bob Mankoff explores the art of humor, the evolution of AI and what happens when the two collide.",
+            "url": "https://www.ted.com/talks/bob_mankoff_can_ai_master_the_art_of_humor",
+            "urlToImage": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_141238/0eb99fbf-5236-4a2e-a9a4-1b2d71537fb1/BobMankoff_2024X-embed.jpg?u%5Br%5D=2&u%5Bs%5D=0.5&u%5Ba%5D=0.8&u%5Bt%5D=0.03&quality=82c=1050%2C550&w=1050",
+            "publishedAt": "2024-11-25T15:54:20Z",
+            "content": "TED is supported by ads and partners00:00"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nationalacademies.org"
+            },
+            "author": null,
+            "title": "Artificial Intelligence and the Future of Work",
+            "description": "Artificial Intelligence and the Future of Work",
+            "url": "https://nap.nationalacademies.org/resource/27644/interactive/",
+            "urlToImage": "https://nap.nationalacademies.org/cover/27644/450",
+            "publishedAt": "2024-11-26T19:31:24Z",
+            "content": "Generative AI has already been found to increase productivity in specific applications including contact\r\n centers, software development, and writing, and its potential to accelerate scientific disco\u2026 [+731 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Aarian Marshall",
+            "title": "Emergency Vehicle Lights Can Screw Up a Car's Automated Driving System",
+            "description": "Newly published research finds that the flashing lights on police cruisers and ambulances can cause \u201cdigital epileptic seizures\u201d in image-based automated driving systems, potentially risking wrecks.",
+            "url": "https://www.wired.com/story/emergency-vehicle-lights-can-screw-up-a-cars-automated-driving-system/",
+            "urlToImage": "https://media.wired.com/photos/67449520be432bc050c5bc0b/191:100/w_1280,c_limit/ambulance-lights-sci-1027494030.jpg",
+            "publishedAt": "2024-11-26T12:00:00Z",
+            "content": "Tesla, which disbanded its public relations team in 2021, did not respond to WIREDs request for comment. The camera systems the researchers used in their tests were manufactured by HP, Pelsee, Azdome\u2026 [+2715 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Stephen Nellis",
+            "title": "Nvidia shows AI model that can modify voices, generate novel sounds",
+            "description": "Nvidia on Monday showed a new artificial intelligence model for generating music and audio that can modify voices and generate novel sounds - technology...",
+            "url": "https://finance.yahoo.com/news/nvidia-shows-ai-model-modify-140131140.html",
+            "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/44f501994f3ce49cdaa2841279ac02d1",
+            "publishedAt": "2024-11-25T14:01:31Z",
+            "content": "By Stephen Nellis\r\n(Reuters) - Nvidia on Monday showed a new artificial intelligence model for generating music and audio that can modify voices and generate novel sounds - technology aimed at the pr\u2026 [+2347 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hipertextual"
+            },
+            "author": "Gabriel Erard",
+            "title": "La primera beta p\u00fablica de iOS 18.2, con Apple Intelligence y ChatGPT, ya est\u00e1 disponible",
+            "description": "Las betas p\u00fablicas de iOS 18.2, iPadOS 18.2 y macOS 15.2, que debutan nuevas funciones de Apple Intelligence y la integraci\u00f3n con ChatGPT, ya est\u00e1n disponibles para todos los dispositivos compatibles. El lanzamiento se produce apenas un par de semanas despu\u00e9s\u2026",
+            "url": "http://hipertextual.com/2024/11/ios-18-2-beta-publica-apple-intelligence-ipados-18-2-macos-15-2",
+            "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2024/09/Apple-iPhone-16-Apple-Intelligence-240909-scaled.jpg",
+            "publishedAt": "2024-11-06T19:37:32Z",
+            "content": "Las betas p\u00fablicas de iOS 18.2, iPadOS 18.2 y macOS 15.2, que debutan nuevas funciones de Apple Intelligence y la integraci\u00f3n con ChatGPT, ya est\u00e1n disponibles para todos los dispositivos compatibles\u2026 [+3164 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Kurt Knutsson, CyberGuy Report",
+            "title": "Must-do privacy settings on your iPhone in iOS 18.1",
+            "description": "Apple's latest iOS update introduces advanced artificial intelligence capabilities, which may be capturing and analyzing sensitive information.",
+            "url": "https://www.foxnews.com/tech/must-do-privacy-settings-your-iphone-ios-18-1",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/11/1-must-turn-off-privacy-settings-on-your-iphone-in-ios-18.1-ai.jpg",
+            "publishedAt": "2024-11-20T11:00:20Z",
+            "content": "With Apple rolling out the latest iOS 18.1 update, privacy has become an even hotter topic. The update introduces advanced AI capabilities through Apple Intelligence and Siri, giving your device more\u2026 [+6131 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Kurt Knutsson, CyberGuy Report",
+            "title": "AI-powered dog robot sniffs out invasive fire ants",
+            "description": "Fueled by artificial intelligence, CyberDog the robotic dog is designed specifically locate fire ant nests, which are endangering ecosystems.",
+            "url": "https://www.foxnews.com/tech/ai-powered-dog-robot-sniffs-out-invasive-fire-ants",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/11/1-ai-powered-dog-robot-sniffs-out-invasive-fire-ants.jpg",
+            "publishedAt": "2024-11-21T11:00:40Z",
+            "content": "Imagine walking through a park on a sunny day, only to feel the sharp sting of fire ants attacking your ankles.\u00a0\r\nThese tiny invaders are not just a nuisance; they pose significant threats to our eco\u2026 [+4817 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Kurt Knutsson, CyberGuy Report",
+            "title": "Inside Apple Mac week: New power, smarter AI, bold innovations",
+            "description": "Apple recently announced its new lineup of Macs and rolled out Apple Intelligence, its latest artificial intelligence-powered feature for its products.",
+            "url": "https://www.foxnews.com/tech/inside-apple-mac-week-new-power-smarter-ai-bold-innovations",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/11/1-apple-unveils-its-new-imac-and-mac-mini-lineup-with-m4-chip-intro.jpg",
+            "publishedAt": "2024-11-03T15:00:03Z",
+            "content": "Apple's week of Mac announcements kicked off Oct. 28, and all the reveals are now official.\u00a0\r\nThe lineup includes a refreshed iMac with the new M4 chip and updated color options, plus redesigned acce\u2026 [+6486 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Todd Feathers",
+            "title": "Stanford Professor Accused of Using AI to Write Expert Testimony Criticizing Deepfakes",
+            "description": "Plaintiffs in a lawsuit challenging Minnesota's law criminalizing election deepfakes say an expert brought in by the state likely wrote his opinion with the help of AI.",
+            "url": "https://gizmodo.com/stanford-professor-accused-of-using-ai-to-write-expert-testimony-criticizing-deepfakes-2000527975",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/11/minnesota-deepfake-lawsuit.jpg",
+            "publishedAt": "2024-11-21T21:40:15Z",
+            "content": "In what appears to be an embarrassing and ironic gaffe, a top Stanford University professor has been accused of spreading AI-generated misinformation while serving as an expert witness in support of \u2026 [+2246 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Todd Feathers",
+            "title": "The Biden Administration Touts Its Big Year in AI",
+            "description": "On the anniversary of President Biden's executive order on AI, the White House says it has met all its year-one goals.",
+            "url": "https://gizmodo.com/the-biden-administration-touts-its-big-year-in-ai-2000518407",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/biden-ai-executive-order.jpg",
+            "publishedAt": "2024-10-30T17:50:32Z",
+            "content": "The White House on Wednesday said that federal agencies have completed all the tasks they committed to during the first year of the Biden administration\u2019s executive order on artificial intelligence.\r\u2026 [+2610 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Lucas Ropek",
+            "title": "AI Chatbot Joins Mushroom Hunters Group, Immediately Encourages Them to Cook Dangerous Mushroom",
+            "description": "We have yet another example of artificial intelligence having no idea what it's talking about.",
+            "url": "https://gizmodo.com/ai-chatbot-joins-mushroom-hunters-group-immediately-encourages-them-to-cook-dangerous-mushroom-2000523863",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/11/A-Porcini-mushroom-in-Italy.jpg",
+            "publishedAt": "2024-11-13T14:50:42Z",
+            "content": "By now, it should be obvious that AI is capable of giving really, really bad advice. Sometimes the advice it gives is just stupid. Other times, it\u2019s actively dangerous.\r\n404 Media reports on an incid\u2026 [+2581 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Gizmodo Deals",
+            "title": "The MSI RTX 4070 Ti Is at a Record Low Price, #1 Best-Selling Graphics Card on Amazon",
+            "description": "This MSI RTX 4070 Ti with an Nvidia chip is the best-selling graphics card on Amazon this Black Friday.",
+            "url": "https://gizmodo.com/the-msi-rtx-4070-ti-is-at-a-record-low-price-1-best-selling-graphics-card-on-amazon-2000529428",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/11/msi-rtx-4070-ti.jpg",
+            "publishedAt": "2024-11-25T14:30:21Z",
+            "content": "If you\u2019re in the market for a powerful graphics card, look no further than the MSI GeForce RTX 4070 Ti. Currently available for $739, this price is a 12% discount from its original list price of $839\u2026 [+2119 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hipertextual"
+            },
+            "author": "Gabriel Erard",
+            "title": "\u00bfAdi\u00f3s Copilot? Microsoft podr\u00eda copiar la receta de Apple para cambiarle de nombre a su IA",
+            "description": "Copilot es la m\u00e1xima expresi\u00f3n del empuje que Microsoft le est\u00e1 dando a las funciones de inteligencia artificial de sus productos de software y hardware, como tambi\u00e9n de sus servicios. Pero esto podr\u00eda cambiar en un futuro no muy lejano, pues se han hallado s\u2026",
+            "url": "http://hipertextual.com/2024/11/microsoft-copilot-podria-cambiar-nombre-windows-intelligence",
+            "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2024/03/copilot-scaled.jpg",
+            "publishedAt": "2024-11-04T15:49:27Z",
+            "content": "Copilot es la m\u00e1xima expresi\u00f3n del empuje que Microsoft le est\u00e1 dando a las funciones de inteligencia artificial de sus productos de software y hardware, como tambi\u00e9n de sus servicios. Pero esto podr\u2026 [+1968 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Jordan Hart",
+            "title": "Apple Intelligence is finally here for some as part of the iOS 18.1 software update",
+            "description": "Apple Intelligence is now available as part of the iOS 18.1 software update. Users with iPhone 15 Pro and later can join a waitlist for AI access.",
+            "url": "https://www.businessinsider.com/apple-intelligence-finally-here-with-launch-of-ios-18-software-2024-10",
+            "urlToImage": "https://i.insider.com/671fbdbe01ea6d83dee48211?width=1200&format=jpeg",
+            "publishedAt": "2024-10-28T16:25:23Z",
+            "content": "Apple Intelligence is here, and there are a number of AI features available.Apple\r\n<ul><li>Apple rolled out long-awaited AI features to some iPhone and other users with its iOS 18.1 update.</li><li>E\u2026 [+3421 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Mat Smith",
+            "title": "The Morning After: FBI warns about fake election security videos",
+            "description": "At the start of the weekend, the FBI issued a statement addressing videos \u201cfalsely claiming to be from the FBI relating to election security.\u201d That includes one claiming the bureau had \u201capprehended three linked groups committing ballot fraud,\u201d and one about K\u2026",
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b9eb8022-f630-4fe4-8a69-f7af310b2047",
+            "urlToImage": null,
+            "publishedAt": "2024-11-04T12:15:03Z",
+            "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "Everything You Need to Know About Apple Intelligence",
+            "description": "Apple Intelligence is what Apple is calling its artificial intelligence feature set, previewed at WWDC in June 2024. The first Apple Intelligence features launched with iOS 18.1, iPadOS 18.1, and macOS Sequoia 15.1, but this is only an initial taste of what A\u2026",
+            "url": "https://www.macrumors.com/guide/apple-intelligence/",
+            "urlToImage": "https://images.macrumors.com/t/QXQ3qDkhrxMrGY5_SLp7tyYc6bg=/1600x/article-new/2024/09/apple-intelligence-black.jpeg",
+            "publishedAt": "2024-10-28T20:19:04Z",
+            "content": "Apple Intelligence is what Apple is calling its artificial intelligence feature set, previewed at WWDC in June 2024. The first Apple Intelligence features launched with iOS 18.1, iPadOS 18.1, and mac\u2026 [+17695 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thenewstack.io"
+            },
+            "author": "David Eastman",
+            "title": "Why LLMs Within Software Development May Be a Dead End",
+            "description": "How should software development respond to how LLMs operate? We need truly explainable Artificial Intelligence with testable components.",
+            "url": "https://thenewstack.io/why-llms-within-software-development-may-be-a-dead-end/",
+            "urlToImage": "https://cdn.thenewstack.io/media/2024/11/baed47e2-mike-erskine-hvwjwoaqwum-unsplashb.jpg",
+            "publishedAt": "2024-11-18T00:41:44Z",
+            "content": "Why LLMs Within Software Development May Be a Dead End"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Blog.google"
+            },
+            "author": "Google",
+            "title": "5 ways to explore chess during the 2024 World Chess Championship",
+            "description": "Illustration of colorful red and blue chess pieces and sparkles against a yellow checkered board.",
+            "url": "https://blog.google/technology/ai/world-chess-championships-2024/",
+            "urlToImage": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ink_Chess_2096x1182_1.width-1300.png",
+            "publishedAt": "2024-11-25T02:05:16Z",
+            "content": "Chess, the classic game of strategy, has long been a proving ground for artificial intelligence. At Google, we've achieved breakthroughs in AI with programs like AlphaZero a single system that taught\u2026 [+740 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Zac Hall",
+            "title": "Predicting Apple Intelligence revenue opportunities in 2025",
+            "description": "Alright, let\u2019s make some predictions. Aside from the iPhone, Services is Apple\u2019s most successful product category. The company\u2019s approach to modern artificial intelligence, combined with its acquisition history, hints at how Apple could unlock new revenue str\u2026",
+            "url": "https://9to5mac.com/2024/11/13/apple-intelligence-revenue/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/10/Serious-Apple-Intelligence-performance-wont-arrive-until-2026-or-2027.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2024-11-13T18:11:51Z",
+            "content": "Alright, lets make some predictions. Aside from the iPhone, Services is Apples most successful product category. The companys approach to modern artificial intelligence, combined with its acquisition\u2026 [+4337 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Harvard Business Review"
+            },
+            "author": "Ajay Agrawal, Joshua Gans, Avi Goldfarb",
+            "title": "Generative AI Is Still Just a Prediction Machine",
+            "description": "If you fail to understand the fundamental nature of these tools, you\u2019ll inevitably use them incorrectly.",
+            "url": "https://hbr.org/2024/11/generative-ai-is-still-just-a-prediction-machine",
+            "urlToImage": "https://hbr.org/resources/images/article_assets/2024/11/Nov24_18_1333030707.jpg",
+            "publishedAt": "2024-11-18T14:00:00Z",
+            "content": "Artificial intelligence tools can now write, code, draw, summarize, and brainstorm. The proliferation of generative AI tools poses serious questions for managers, such as: What tasks can be done by A\u2026 [+272 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Huggingface.co"
+            },
+            "author": null,
+            "title": "A CC-By Open-Source TTS Model with Voice Cloning",
+            "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+            "url": "https://huggingface.co/OuteAI/OuteTTS-0.1-350M",
+            "urlToImage": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/OuteAI/OuteTTS-0.1-350M.png",
+            "publishedAt": "2024-11-04T17:36:17Z",
+            "content": "Model Description\r\nOuteTTS-0.1-350M is a novel text-to-speech synthesis model that leverages pure language modeling without external adapters or complex architectures, built upon the LLaMa architectu\u2026 [+4916 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Harvard Business Review"
+            },
+            "author": "Graham Kenny, Roger Moser",
+            "title": "How 3 Companies Are Using AI to Mimic Expert Judgement",
+            "description": "Advanced AI can learn how seasoned experts make decisions and perform tasks that used to require specialized knowledge.",
+            "url": "https://hbr.org/2024/11/how-3-companies-are-using-ai-to-mimic-expert-judgement",
+            "urlToImage": "https://hbr.org/resources/images/article_assets/2024/10/Nov24_14_835574556.jpg",
+            "publishedAt": "2024-11-15T14:00:00Z",
+            "content": "You might not have heard of expert systems, but theyre already in use in many fields including fault diagnosis, finance, and medicine. In artificial intelligence (AI), an expert system is a computer \u2026 [+247 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "EditorDavid",
+            "title": "Salesforce to Hire 1,000 People for Big AI Product Sales Push",
+            "description": "Salesforce \"plans to hire more than 1,000 workers to sell its new generative AI agent product,\" reports Bloomberg:\n\nThe hiring surge is aimed at capitalizing on \"amazing momentum\" for the new artificial intelligence product, Chief Executive Marc Benioff said \u2026",
+            "url": "https://slashdot.org/story/24/11/10/1819213/salesforce-to-hire-1000-people-for-big-ai-product-sales-push",
+            "urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
+            "publishedAt": "2024-11-10T18:35:00Z",
+            "content": "The hiring surge is aimed at capitalizing on \"amazing momentum\" for the new artificial intelligence product, Chief Executive Marc Benioff said in a message. \"Agentforce became available just two week\u2026 [+410 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Barbara Pazur",
+            "title": "What Is Generative AI? Everything to Know About the Tech Behind ChatGPT and Gemini",
+            "description": "There hasn't been a tech advancement that's caused such a boom since the internet and, later, the iPhone.",
+            "url": "https://www.cnet.com/tech/services-and-software/what-is-generative-ai-everything-to-know-about-the-tech-behind-chatgpt-and-gemini/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/c5f49cef62319fa06f5f699ee065ee4228c178dc/hub/2024/11/22/1e35212a-cbcc-4775-94f6-3bd66f665aaf/gettyimages-1442265733.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-11-26T13:00:07Z",
+            "content": "Artificial intelligence is everywhere, whether you realize it or not. It's behind the chatbots you talk to online, the playlists you stream and the personalized ads that somehow know exactly what you\u2026 [+6912 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hipertextual"
+            },
+            "author": "Luis Miranda",
+            "title": "La nueva Siri copiar\u00e1 la mejor caracter\u00edstica de ChatGPT",
+            "description": "Apple quiere seguir los pasos de ChatGPT y lanzar un asistente de voz impulsado por IA. El gigante tecnol\u00f3gico no quiere quedar rezagado en la carrera de la inteligencia artificial, por lo que trabaja en una versi\u00f3n de Siri con capacidades de conversaci\u00f3n. La\u2026",
+            "url": "http://hipertextual.com/2024/11/la-nueva-siri-copiara-la-mejor-caracteristica-de-chatgpt",
+            "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2023/03/Siri-Apple-ChatGPT.jpg",
+            "publishedAt": "2024-11-22T01:17:02Z",
+            "content": "Apple quiere seguir los pasos de ChatGPT y lanzar un asistente de voz impulsado por IA. El gigante tecnol\u00f3gico no quiere quedar rezagado en la carrera de la inteligencia artificial, por lo que trabaj\u2026 [+2038 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Reuters",
+            "title": "Apple to announce AI wall tablet as soon as March, Bloomberg News reports",
+            "description": "The product, code-named J490, could be announced as early as March, the report said, adding that it will spotlight the new AI platform, Apple Intelligence.  ...",
+            "url": "https://finance.yahoo.com/news/apple-announce-ai-wall-tablet-212949077.html",
+            "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/5521d62c2dffd624be15c37d636c4333",
+            "publishedAt": "2024-11-12T21:29:49Z",
+            "content": "(Reuters) - Apple is planning on launching a wall-mounted display that can control appliances, handle video conferencing and use artificial intelligence to navigate apps, Bloomberg News reported on T\u2026 [+1023 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Rachel Kaser",
+            "title": "The games industry will come back to growth in 2025 | DFC Intelligence",
+            "description": "DFC Intelligence today released a preview of its 2024 market report, and it predicts gaming will grow again after a disastrous year.",
+            "url": "https://venturebeat.com/games/the-games-industry-will-come-back-to-growth-in-2025-dfc-intelligence/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2024/10/DFC-2024-Hardware-Software-Revenue-Growth.jpg?w=1024?w=1200&strip=all",
+            "publishedAt": "2024-10-30T16:15:45Z",
+            "content": "The video game industry, which is in the middle of one of its most difficult years in recent memory, is poised to return to growth in 2025, according to DFC Intelligence. The game analyst firm makes \u2026 [+3528 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Reuters",
+            "title": "Nvidia to replace Intel in Dow Jones Industrial Average",
+            "description": "Once the dominant force in chipmaking, Intel has in recent years ceded its manufacturing edge to rival TSMC and missed out on the generative artificial...",
+            "url": "https://finance.yahoo.com/news/nvidia-replace-intel-dow-jones-212628000.html",
+            "urlToImage": "https://media.zenfs.com/en/reuters.com/ada2ae47fdb80f7b09e8624b9e81da9a",
+            "publishedAt": "2024-11-01T21:26:28Z",
+            "content": "(Reuters) - Intel will lose its spot in the Dow Jones Industrial Average after a 25-year run to Nvidia, S&amp;P Dow Jones Indices said on Friday, the latest blow to the struggling chipmaker that was \u2026 [+1696 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Hasan Chowdhury,Riddhi Kanetkar,Beatrice Nolan,Hugh Langley",
+            "title": "AI improvements are slowing down. Companies have a plan to break through the wall.",
+            "description": "AI labs racing to surpass human intelligence have become the subject of reports that challenges are getting between their models and their mission.",
+            "url": "https://www.businessinsider.com/generative-ai-wall-scaling-laws-training-data-chatgpt-gemini-claude-2024-11",
+            "urlToImage": "https://i.insider.com/673e1268fa0140cdd5647cd3?width=1200&format=jpeg",
+            "publishedAt": "2024-11-27T09:00:02Z",
+            "content": "The tech world has been debating if AI models are plateauing. iStock; Rebecca Zisser/BI\r\n<ul><li>The rate of AI model improvement appears to be slowing, but some tech leaders say there is no wall.</l\u2026 [+11703 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Lakshmi Varanasi,Lloyd Lee",
+            "title": "AI leaders are starting to rethink the best way to advance AI",
+            "description": "AI leaders are rethinking the conventional wisdom about how to train large language models.",
+            "url": "https://www.businessinsider.com/ai-leaders-are-starting-to-rethink-way-to-advance-ai-2024-11",
+            "urlToImage": "https://i.insider.com/674250fe9f2901eb6036886e?width=1200&format=jpeg",
+            "publishedAt": "2024-11-24T15:39:48Z",
+            "content": "Andriy Onufriyenko/Getty\r\n<ul><li>AI leaders are rethinking data-heavy training for large language models.</li><li>Traditional models scale linearly with data, but this approach may hit a dead end.</\u2026 [+3859 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Olympian Laura Kenny to guest edit Radio 4's Today",
+            "description": "Sir Sajid Javid and Baronness Floella Benjamin will also take the editorial reins over Christmas.",
+            "url": "https://www.bbc.com/news/articles/cn9xpql4z2no",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5483/live/171721c0-a757-11ef-8ba2-a5c72fcf683d.jpg",
+            "publishedAt": "2024-11-25T02:02:30Z",
+            "content": "Dame Laura Kenny will guest edit Radio 4's Today programme over Christmas, the BBC has announced.\r\nThe British cyclist is one of six names who will editorially shape episodes of the news programme ov\u2026 [+2163 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xataka.com"
+            },
+            "author": "Y\u00fabal Fern\u00e1ndez",
+            "title": "C\u00f3mo tener Apple Intelligence en macOS en Espa\u00f1a, y cu\u00e1les son sus limitaciones",
+            "description": "Vamos a explicarte c\u00f3mo puedes tener Apple Intelligence en macOS si est\u00e1s en Espa\u00f1a. Aunque la IA de Apple no llegar\u00e1 a iOS en Europa hasta abril del 2025, en macOS ya ha empezado a llegar, aunque con algunas limitaciones que necesitas saber.\n<!-- BREAK 1 -->\u2026",
+            "url": "https://www.xataka.com/basics/como-tener-apple-intelligence-macos-espana-cuales-sus-limitaciones",
+            "urlToImage": "https://i.blogs.es/3e9554/apple-intelligence/840_560.jpeg",
+            "publishedAt": "2024-10-29T11:31:04Z",
+            "content": "Vamos a explicarte c\u00f3mo puedes tener Apple Intelligence en macOS si est\u00e1s en Espa\u00f1a. Aunque la IA de Apple no llegar\u00e1 a iOS en Europa hasta abril del 2025, en macOS ya ha empezado a llegar, aunque co\u2026 [+2996 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "msmash",
+            "title": "OpenAI Considers Taking on Google With Browser",
+            "description": "An anonymous reader shares a report: OpenAI is preparing to launch a frontal assault on Google. The ChatGPT owner recently considered developing a web browser that it would combine with its chatbot, and it has separately discussed or struck deals to power sea\u2026",
+            "url": "https://tech.slashdot.org/story/24/11/22/1421209/openai-considers-taking-on-google-with-browser",
+            "urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
+            "publishedAt": "2024-11-22T15:23:00Z",
+            "content": "OpenAI is preparing to launch a frontal assault on Google. The ChatGPT owner recently considered developing a web browser that it would combine with its chatbot, and it has separately discussed or st\u2026 [+554 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Scientific American"
+            },
+            "author": "Rachel Feltman, Fonda Mwangi, Jeffery DelViscio",
+            "title": "Using Chatbots and Ancient Writing to Simulate the Cultural Attitudes of Ancient Civilizations",
+            "description": "Social psychologists could turn artificial-intelligence-powered tools like ChatGPT on to writings from past cultures. Will this help us study ancient civilizations?",
+            "url": "https://www.scientificamerican.com/podcast/episode/using-chatbots-and-ancient-writing-to-simulate-the-cultural-attitudes-of/",
+            "urlToImage": "https://static.scientificamerican.com/dam/m/15dfc46f0f10e613/original/SQ-Friday-EP-Art.png?m=1715878940.917&w=1200",
+            "publishedAt": "2024-11-22T11:00:00Z",
+            "content": "Rachel Feltman: There\u2019s been a lot of hype around artificial intelligence lately. Some companies want us to believe that machine learning is powerful enough to practically tell the future. But what a\u2026 [+11480 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Matthew Gault",
+            "title": "Elon Musk Expands His Grudge Against OpenAI to Include Microsoft",
+            "description": "The new lawsuit includes a detailed list of the ways OpenAI CEO Sam Altman manipulated the world's richest man.",
+            "url": "https://gizmodo.com/elon-musk-expands-his-grudge-against-openai-to-include-microsoft-2000525014",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/11/ElonMuskPic.jpg",
+            "publishedAt": "2024-11-15T16:00:53Z",
+            "content": "Elon Musk has expanded his lawsuit against OpenAI and its founder Sam Altman to include Microsoft and LinkedIn co-founder Ried Hoffman. The amended 107-page lawsuit is an incredible document that tel\u2026 [+3335 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Matt Novak",
+            "title": "TikTok Announces Plan to Block Some Beauty Filters for Minors",
+            "description": "\"By fostering a culture of authenticity, respect and support, we can create a digital world where everyone feels empowered to be their true self,\" the company said.",
+            "url": "https://gizmodo.com/tiktok-announces-plan-to-block-some-beauty-filters-for-minors-2000531082",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/11/tiktok-sign-culver-city-getty.jpg",
+            "publishedAt": "2024-11-27T20:10:54Z",
+            "content": "TikTok will soon block anyone under 18 years old from using filters on the social media platform that dramatically alter their facial features, according to a press release. Filters that alter a pers\u2026 [+2628 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Matthew Gault",
+            "title": "Sam Altman May Be One of the Biggest Losers of This Election",
+            "description": "OpenAI is going through a rough patch and it's Elon's turn to take revenge.",
+            "url": "https://gizmodo.com/sam-altman-may-be-one-of-the-biggest-losers-of-this-election-2000522109",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/11/AltmanWompWomp.jpg",
+            "publishedAt": "2024-11-08T17:30:56Z",
+            "content": "As Trump prepares to take office, tech overlords are bending the knee and kissing his ass in public. Billionaires like Mark Zuckerberg are already way richer than they were on Monday. And Elon Musk i\u2026 [+4345 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Fox News Staff",
+            "title": "Fox News AI Newsletter: Mr. Miyagi's dramatic return",
+            "description": "Stay up to date on the latest AI technology advancements and learn about the challenges and opportunities AI presents now and for the future.",
+            "url": "https://www.foxnews.com/tech/ai-newsletter-mr-miyagis-dramatic-return",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/11/patmoritaralphmacchio.jpg",
+            "publishedAt": "2024-11-23T14:00:04Z",
+            "content": "Welcome to Fox News Artificial Intelligence newsletter with the latest AI technology advancements.\r\nIN TODAYS NEWSLETTER:\r\n- Cobra Kai used AI to bring back Karate Kid character in controversial nigh\u2026 [+1663 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "South China Morning Post",
+            "title": "China's Huawei pushes network gear upgrades in friendly nations, touting AI boost",
+            "description": "Huawei Technologies is urging telecommunications-network operators in overseas markets to upgrade their infrastructure to prepare for a boom in artificial...",
+            "url": "https://finance.yahoo.com/news/chinas-huawei-pushes-network-gear-093000110.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Bp.duq0X_wVbql26coVetw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/south_china_morning_post_us_228/8b9bd3f6af827628a6ea01005cec1a8f",
+            "publishedAt": "2024-11-05T09:30:00Z",
+            "content": "Huawei Technologies is urging telecommunications-network operators in overseas markets to upgrade their infrastructure to prepare for a boom in artificial intelligence (AI) services, as the US-sancti\u2026 [+3433 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Barbara Pazur",
+            "title": "What Is Quantum AI? Everything to Know About This Far-Out Twist",
+            "description": "As if AI itself weren't futuristic enough, now there's a whole new leap forward on the horizon.",
+            "url": "https://www.cnet.com/tech/services-and-software/what-is-quantum-ai-everything-to-know-about-this-far-out-twist/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/c7cb26e927bebaa784fb55a01e71d7fecb15d2e3/hub/2019/06/26/3f76e99d-8055-46f3-8f27-558ee276b665/20180405-ibm-q-quantum-computer-02.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-11-08T15:02:00Z",
+            "content": "Artificial intelligence has been infiltrating our daily workflows and routine tasks for while now. It may be AI working in the background, as with Gemini's integration across Google products, or you \u2026 [+6210 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Reuters",
+            "title": "Russia's Yandex plans to invest in Indonesia's AI, minister says",
+            "description": "Russia's internet giant Yandex plans to invest in Indonesia's artificial intelligence (AI) ecosystem, the Southeast Asian country's communications and...",
+            "url": "https://uk.finance.yahoo.com/news/russias-yandex-plans-invest-indonesias-114348665.html",
+            "urlToImage": "https://media.zenfs.com/en/reuters.com/313316eae1c8cc3915588575a4b5313f",
+            "publishedAt": "2024-11-08T11:43:48Z",
+            "content": "JAKARTA (Reuters) - Russia's internet giant Yandex plans to invest in Indonesia's artificial intelligence (AI) ecosystem, the Southeast Asian country's communications and digital minister said.\r\nMeut\u2026 [+1614 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Fox News Staff",
+            "title": "Fox News AI Newsletter: AI developers discover 'Donald Trump neuron', expert says",
+            "description": "Stay up to date on the latest AI technology advancements and learn about the challenges and opportunities AI presents now and for the future.",
+            "url": "https://www.foxnews.com/tech/ai-developers-discover-donald-trump-neuron-expert-says",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/11/artificial-intelligence-trump-2.jpg",
+            "publishedAt": "2024-11-13T16:56:33Z",
+            "content": "Welcome to Fox News Artificial Intelligence newsletter with the latest AI technology advancements.\r\nIN TODAYS NEWSLETTER:\r\n- AI developers discover 'Donald Trump neuron', expert says\r\n- Petition call\u2026 [+1662 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "'Prosthetic makes me feel I have got my face back'",
+            "description": "Portraits of people who wear facial prosthetics go on display in Leeds as part of a research study.",
+            "url": "https://www.bbc.com/news/articles/clyv3ggynmqo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f67c/live/d58402f0-9dd8-11ef-9bf1-a7490d3581e0.jpg",
+            "publishedAt": "2024-11-10T09:09:22Z",
+            "content": "Robin Fahey lost his nose, eye and upper teeth as a result of cancer\r\nPeople with facial injuries who wear prosthetics to replace features such as an eye or a nose have had their portraits unveiled i\u2026 [+2844 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Medium"
+            },
+            "author": "Daniel Kharitonov",
+            "title": "Brute-Forcing the LLM Guardrails",
+            "description": "Being able to constrain LLM outputs is widely seen as one of the keys to widespread deployment of artificial intelligence. State-of-the art models are being expertly tuned against abuse, and will\u2026",
+            "url": "https://medium.com/@volkot/brute-forcing-the-llm-guardrails-e02fcd9bc9a4",
+            "urlToImage": "https://miro.medium.com/v2/da:true/resize:fit:874/0*1M9ZZzJSO7Q6t2c4",
+            "publishedAt": "2024-11-02T18:15:29Z",
+            "content": "Exploring and pushing the limits of AI\r\nBeing able to constrain LLM outputs is widely seen as one of the keys to widespread deployment of artificial intelligence. State-of-the art models are being ex\u2026 [+2409 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Genbeta.com"
+            },
+            "author": "Jos\u00e9 Alberto Lizana",
+            "title": "Apple Intelligence llegar\u00e1 a Espa\u00f1a antes de lo esperado",
+            "description": "Las grandes empresas tecnol\u00f3gicas como Google o Microsoft se han apuntado en los \u00faltimos meses a la integraci\u00f3n de la inteligencia artificial en su ecosistema. Apple era la \u00fanica gran compa\u00f1\u00eda que se estaba manteniendo al margen de estos avances, hasta el mes\u2026",
+            "url": "https://www.genbeta.com/inteligencia-artificial/apple-intelligence-llegara-a-espana-antes-esperado-solo-a-esta-lista-dispositivos",
+            "urlToImage": "https://i.blogs.es/842e9b/1200_800-4/840_560.jpeg",
+            "publishedAt": "2024-10-28T16:49:50Z",
+            "content": "Las grandes empresas tecnol\u00f3gicas como Google o Microsoft se han apuntado en los \u00faltimos meses a la integraci\u00f3n de la inteligencia artificial en su ecosistema. Apple era la \u00fanica gran compa\u00f1\u00eda que se\u2026 [+2241 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "msmash",
+            "title": "US Army Should Ditch Tanks For AI Drones, Says Eric Schmidt",
+            "description": "Former Google chief Eric Schmidt thinks the US Army should expunge \"useless\" tanks and replace them with AI-powered drones instead. From a report: Speaking at the Future Investment Initiative in Saudi Arabia this week, he said: \"I read somewhere that the US h\u2026",
+            "url": "https://news.slashdot.org/story/24/10/31/2030255/us-army-should-ditch-tanks-for-ai-drones-says-eric-schmidt",
+            "urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
+            "publishedAt": "2024-11-01T00:45:00Z",
+            "content": "Speaking at the Future Investment Initiative in Saudi Arabia this week, he said: \"I read somewhere that the US had thousands and thousands of tanks stored somewhere,\" adding, \"Give them away. Buy a d\u2026 [+1160 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "BeauHD",
+            "title": "Meta Permits Its AI Models To Be Used For US Military Purposes",
+            "description": "An anonymous reader quotes a report from the New York Times: Meta will allow U.S. government agencies and contractors working on national security to use its artificial intelligence models for military purposes, the company said on Monday, in a shift from its\u2026",
+            "url": "https://news.slashdot.org/story/24/11/05/043209/meta-permits-its-ai-models-to-be-used-for-us-military-purposes",
+            "urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
+            "publishedAt": "2024-11-05T13:00:00Z",
+            "content": "Meta will allow U.S. government agencies and contractors working on national security to use its artificial intelligence models for military purposes, the company said on Monday, in a shift from its \u2026 [+1156 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Ayana Archie",
+            "title": "OpenAI is rolling out a web search feature for ChatGPT",
+            "description": "The function can be used manually or automatically. It is available now for certain users, and will be accessible for other users on a rolling basis.",
+            "url": "https://www.npr.org/2024/11/01/nx-s1-5174958/chatgpt-search-feature-openai",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5603x3152+0+292/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7b%2F3a%2Fa429f8d041e9bd98f9464c5fd7a3%2Fgettyimages-1708659737.jpg",
+            "publishedAt": "2024-11-01T08:00:25Z",
+            "content": "ChapGPT now has a search engine function.\r\nUsers will be able to type something into the text box, and click a little blue search button below it, or the artificial intelligence will automatically se\u2026 [+892 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Fox News Staff",
+            "title": "Fox News AI Newsletter: Beatles song will 'push the limit'",
+            "description": "Stay up to date on the latest AI technology advancements and learn about the challenges and opportunities AI presents now and for the future.",
+            "url": "https://www.foxnews.com/tech/fox-news-ai-newsletter-beatles-song-push-limit",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/THE-BEATLES.jpg",
+            "publishedAt": "2024-11-16T13:30:42Z",
+            "content": "Welcome to Fox News Artificial Intelligence newsletter with the latest AI technology advancements.\r\nIN TODAYS NEWSLETTER:\r\n- The Beatles' AI-assisted songs Grammy nomination could push the limit on i\u2026 [+1322 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Lakshmi Varanasi",
+            "title": "OpenAI's former head of 'AGI readiness' says that soon AI will be able to do anything on a computer that a human can",
+            "description": "Former senior policy and head of AGI readiness Miles Brundage told Hard Fork that \"people should be thinking about what that means.\"",
+            "url": "https://www.businessinsider.com/openais-former-head-of-agi-talks-about-where-were-headed-2024-11",
+            "urlToImage": "https://i.insider.com/67266ca688cea3ba1c1dfc89?width=1200&format=jpeg",
+            "publishedAt": "2024-11-02T19:44:20Z",
+            "content": "OpenAI debuted its voice mode feature in September 2023Anadolu\r\n<ul><li>Miles Brundage left OpenAI to pursue policy research in the nonprofit sector.</li><li>Brundage was a key figure in AGI research\u2026 [+2904 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Lauren Edmonds",
+            "title": "Sarah Silverman says her lawsuit against OpenAI is difficult because the company is one of the 'richest entities in the world'",
+            "description": "Sarah Silverman discussed her ongoing  copyright infringement lawsuit against OpenAI with actor Rob Lowe in a podcast published on Thursday.",
+            "url": "https://www.businessinsider.com/openai-sarah-silverman-lawsuit-2024-11",
+            "urlToImage": "https://i.insider.com/673f52c99f2901eb60361c90?width=1200&format=jpeg",
+            "publishedAt": "2024-11-21T21:01:25Z",
+            "content": "Sarah Silverman is a plaintiff in a class action lawsuit filed against OpenAI.Tommaso Boddi/Variety via Getty Images\r\n<ul><li>Sarah Silverman appeared on Rob Lowe's Sirius XM podcast.</li><li>Silverm\u2026 [+3589 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Trends"
+            },
+            "author": "Bryan M. Wolfe",
+            "title": "Apple quietly nixed this Apple Intelligence feature from iOS 18.2",
+            "description": "One of the most highly anticipated Apple Intelligence tools, Image Playground, is missing a key feature in the latest iOS 18.2 beta. Will it return?",
+            "url": "https://www.digitaltrends.com/mobile/apple-quietly-nixed-this-apple-intelligence-feature-from-ios-18-2/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/11/image-playground-app.jpeg?resize=1200%2C630&p=1",
+            "publishedAt": "2024-11-08T16:43:45Z",
+            "content": "One of the most highly anticipated features of Apple Intelligence, Image Playground, has finally launched in the iOS 18.2 developer and public betas. This artificial intelligence tool, announced in J\u2026 [+2371 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Fox News Staff",
+            "title": "Fox News AI Newsletter: Medical advice from a chatbot?",
+            "description": "Stay up to date on the latest AI technology advancements and learn about the challenges and opportunities AI presents now and for the future.",
+            "url": "https://www.foxnews.com/tech/fox-news-ai-newsletter-medical-advice-from-chatbot",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/10/grok-elon-split.jpg",
+            "publishedAt": "2024-10-30T15:46:41Z",
+            "content": "Welcome to Fox News Artificial Intelligence newsletter with the latest AI technology advancements.\r\nIN TODAYS NEWSLETTER:\r\n- Elon Musk wants people to submit their medical scans to Grok, his AI chatb\u2026 [+1453 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "POWER magazine"
+            },
+            "author": "Aaron Larson",
+            "title": "Artificial Intelligence Has Entered the Nuclear Industry and Its Early Benefits Are Just the Tip of the Iceberg",
+            "description": "A collaboration between startup Atomic Canyon and the Oak Ridge National Laboratory allowed construction of a sentence-embedding model using 53 million pages...",
+            "url": "https://www.powermag.com/artificial-intelligence-has-entered-the-nuclear-industry-and-its-early-benefits-are-just-the-tip-of-the-iceberg/",
+            "urlToImage": "https://media.zenfs.com/en/power_magazine_984/823909541bc41bd10649994affc7ba4a",
+            "publishedAt": "2024-11-19T23:09:16Z",
+            "content": "A collaboration between startup Atomic Canyon and the Oak Ridge National Laboratory allowed construction of a sentence-embedding model using 53 million pages of Nuclear Regulatory Commission document\u2026 [+10398 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Fox News Staff",
+            "title": "Fox News AI Newsletter: 'It might kill us all'",
+            "description": "Stay up to date on the latest AI technology advancements and learn about the challenges and opportunities AI presents now and for the future.",
+            "url": "https://www.foxnews.com/tech/ai-newsletter-it-might-kill-us-all",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/11/hughgrantheretic.jpg",
+            "publishedAt": "2024-11-09T13:30:30Z",
+            "content": "Welcome to Fox News Artificial Intelligence newsletter with the latest AI technology advancements.\r\nIN TODAYS NEWSLETTER:\r\n- Hugh Grant movie slams AI; director warns 'it might kill us all'- US final\u2026 [+1695 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Jaures Yip,Jordan Hart)",
+            "title": "3 new risks that Apple warned about in its annual report",
+            "description": "Apple updated its list of \"risk factors\" with new language about future product profitability, geopolitical tensions, and AI features.",
+            "url": "https://www.businessinsider.com/apple-risk-factors-future-product-revenue-ai-safety-geopolitical-tensions-2024-11",
+            "urlToImage": "https://i.insider.com/672a65ed192f525898563264?width=1200&format=jpeg",
+            "publishedAt": "2024-11-05T22:07:45Z",
+            "content": "Apple's latest annual report offers insight into what the tech giant views as potential risks to its business.\r\nThe tech giant recently revised its \"risk factors\" to its business, which the SEC requi\u2026 [+3653 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Carnegie Mellon University"
+            },
+            "author": "Carnegie Mellon University",
+            "title": "Large Language Models Are Changing Collective Intelligence Forever",
+            "description": "Within teams, organizations, markets, and online communities, ideas from a larger group can help to solve complex problems. Large language models (LLMs) are emerging as powerful tools to unlock even greater potential. Picture an online forum where thousands o\u2026",
+            "url": "https://www.cmu.edu/tepper/news/stories/2024/september/collective-intelligence-and-llms.html",
+            "urlToImage": "https://www.cmu.edu/tepper/news/assets/images/llms-collective-intelligence.webp",
+            "publishedAt": "2024-11-04T13:50:31Z",
+            "content": "Woolley and her co-authors considered how LLMs process and create text, particularly their impact on collective intelligence. For example, LLMs can make it easier for people from different background\u2026 [+2394 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Kurt Knutsson, CyberGuy Report",
+            "title": "Would you buy art from the world\u2019s first humanoid robot artist?",
+            "description": "Sotheby's will auction the first artwork created by Ai-Da, the world's first robot artist created in 2019 by British gallerist Aidan Meller.",
+            "url": "https://www.foxnews.com/tech/would-you-buy-art-from-worlds-first-humanoid-robot-artist",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/10/5-would-you-buy-art-from-the-worlds-first-humanoid-robot-artist.jpg",
+            "publishedAt": "2024-10-30T10:00:32Z",
+            "content": "In a groundbreaking moment for the art world, Sotheby's will auction the first-ever artwork created by a humanoid robot.\u00a0\r\nAi-Da, the world's first ultra-realistic robot artist, has produced a striki\u2026 [+3633 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hipertextual"
+            },
+            "author": "Jos\u00e9 Mar\u00eda L\u00f3pez",
+            "title": "iOS 18.2: cu\u00e1ndo sale, principales novedades y c\u00f3mo instalar en tu iPhone",
+            "description": "Cuando Apple present\u00f3 iOS 18 esta primavera, en el WWDC de 2024, todav\u00eda no sab\u00edamos que sus novedades vendr\u00edan en sucesivas actualizaciones. Apple no quer\u00eda introducir los grandes cambios que supone Apple Intelligence de sopet\u00f3n. De manera que tras iOS 18, t\u2026",
+            "url": "http://hipertextual.com/2024/11/ios-18-2-novedades-lanzamiento-instalar",
+            "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2024/11/iOS-182-iPhone.jpg",
+            "publishedAt": "2024-11-13T14:07:49Z",
+            "content": "Cuando Apple present\u00f3 iOS 18 esta primavera, en el WWDC de 2024, todav\u00eda no sab\u00edamos que sus novedades vendr\u00edan en sucesivas actualizaciones. Apple no quer\u00eda introducir los grandes cambios que supone\u2026 [+2546 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techdirt"
+            },
+            "author": "Daily Deal",
+            "title": "Daily Deal: The Complete ChatGPT Artificial Intelligence OpenAI Training Bundle",
+            "description": "The Complete ChatGPT Artificial Intelligence OpenAI Training Bundle has 4 beginner-friendly courses to help you become more comfortable with the capabilities of OpenAI and ChatGPT. You\u2019ll learn how to write effective prompts to get the best results, how to cr\u2026",
+            "url": "https://www.techdirt.com/2024/11/26/daily-deal-the-complete-chatgpt-artificial-intelligence-openai-training-bundle-4/",
+            "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+            "publishedAt": "2024-11-26T18:59:09Z",
+            "content": "from the good-deals-on-cool-stuff dept\r\nThe Complete ChatGPT Artificial Intelligence OpenAI Training Bundle has 4 beginner-friendly courses to help you become more comfortable with the capabilities o\u2026 [+427 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "EditorDavid",
+            "title": "Coding Boot Gamp Graduates Find tough Prospects In an AI-Powered World",
+            "description": "An anonymous reader shared this report from the New York Times:\n\nBetween the time [construction worker Florencio] Rendon applied for the coding boot camp and the time he graduated, what Mr. Rendon imagined as a \"golden ticket\" to a better life had expired. Ab\u2026",
+            "url": "https://news.slashdot.org/story/24/11/24/2159232/coding-boot-gamp-graduates-find-tough-prospects-in-an-ai-powered-world",
+            "urlToImage": "https://a.fsdn.com/sd/topics/education_64.png",
+            "publishedAt": "2024-11-24T22:04:00Z",
+            "content": "Between the time [construction worker Florencio] Rendon applied for the coding boot camp and the time he graduated, what Mr. Rendon imagined as a \"golden ticket\" to a better life had expired. About 1\u2026 [+1576 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "EditorDavid",
+            "title": "ChatGPT-4 Beat Doctors at Diagnosing Illness, Study Finds",
+            "description": "Dr. Adam Rodman, a Boston-based internal medicine expert, helped design a study testing 50 licensed physicians to see whether ChatGPT improved their diagnoses, reports the New York TImes. The results? \"Doctors who were given ChatGPT-4 along with conventional \u2026",
+            "url": "https://science.slashdot.org/story/24/11/18/058208/chatgpt-4-beat-doctors-at-diagnosing-illness-study-finds",
+            "urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
+            "publishedAt": "2024-11-18T09:04:00Z",
+            "content": "Dr. Adam Rodman, a Boston-based internal medicine expert, helped design a study testing 50 licensed physicians to see whether ChatGPT improved their diagnoses, reports the New York TImes. The results\u2026 [+1632 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Fox News Staff",
+            "title": "Fox News AI Newsletter: Who parents trust for medical advice",
+            "description": "Stay up to date on the latest AI technology advancements and learn about the challenges and opportunities AI presents",
+            "url": "https://www.foxnews.com/tech/ai-newsletter-who-parents-trust-medical-advice",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/11/df3fb063-mom-sick-kid-computer.jpg",
+            "publishedAt": "2024-11-02T13:23:32Z",
+            "content": "Welcome to Fox News Artificial Intelligence newsletter with the latest AI technology advancements.\r\nIN TODAYS NEWSLETTER:\r\n- Parents trust AI for medical advice more than doctors, researchers find- '\u2026 [+1695 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "msmash",
+            "title": "Tech Giants Are Set To Spend $200 Billion This Year Chasing AI",
+            "description": "Three months ago, Wall Street punished the world's largest technology firms for spending enormous amounts to develop artificial intelligence, only to deliver results that failed to justify the costs. Silicon Valley's response this quarter? Plans to invest eve\u2026",
+            "url": "https://tech.slashdot.org/story/24/11/01/1238226/tech-giants-are-set-to-spend-200-billion-this-year-chasing-ai",
+            "urlToImage": "https://a.fsdn.com/sd/topics/topicgoogle_fb.gif",
+            "publishedAt": "2024-11-01T16:41:00Z",
+            "content": "The capital expenditures of the four largest internet and software companies -- Amazon, Microsoft, Meta and Alphabet -- are set to total well over $200 billion this year, a record sum for the proflig\u2026 [+508 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Amber Neely)",
+            "title": "Apple in talks with Foxconn to build Apple Intelligence servers in Taiwan",
+            "description": "Apple wants to tap the talent at Foxconn to power its Apple Intelligence servers, though the supplier may already be at capacity.Apple IntelligenceApple has been ramping up efforts for Apple Intelligence, its user-centric suite of artificial intelligence tool\u2026",
+            "url": "https://appleinsider.com/articles/24/11/06/apple-in-talks-with-foxconn-to-build-apple-intelligence-servers-in-taiwan",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/61561-127179-iPhone-16-Pro-Max-AI-xl.jpg",
+            "publishedAt": "2024-11-06T15:01:30Z",
+            "content": "Apple wants to tap the talent at Foxconn to power its Apple Intelligence servers, though the supplier may already be at capacity.\r\nApple has been ramping up efforts for Apple Intelligence, its user-c\u2026 [+1684 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Filipe Esp\u00f3sito",
+            "title": "ChatGPT for iOS adds new shortcut for using SearchGPT",
+            "description": "As we reported last month, OpenAI has finally launched SearchGPT, which is essentially a search engine developed by OpenAI that uses artificial intelligence to find and combine the best results from the web. And with the latest ChatGPT update for iOS, it\u2019s no\u2026",
+            "url": "https://9to5mac.com/2024/11/26/chatgpt-searchgpt-shortcut/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/11/chatgpt-searchgpt-shortcut.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2024-11-26T23:40:46Z",
+            "content": "As we reported last month, OpenAI has finally launched SearchGPT, which is essentially a search engine developed by OpenAI that uses artificial intelligence to find and combine the best results from \u2026 [+1925 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Wesley Hilliard)",
+            "title": "iOS 18.1 & iPadOS 18.1 review: baby steps with Apple Intelligence",
+            "description": "Apple Intelligence arrives one month into iOS 18 and iPadOS 18, bringing a few of the anticipated Apple Intelligence features to iPhones and iPads, but there's nothing revolutionary about Apple's AI push.iOS 18.1 & iPadOS 18.1 review: Apple Intelligence arriv\u2026",
+            "url": "https://appleinsider.com/articles/24/10/28/ios-181-ipados-181-review-baby-steps-with-apple-intelligence",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/61343-126905-iPad-Apple-Intelligence-xl.jpg",
+            "publishedAt": "2024-10-28T15:21:49Z",
+            "content": "Apple Intelligence arrives one month into iOS 18 and iPadOS 18, bringing a few of the anticipated Apple Intelligence features to iPhones and iPads, but there's nothing revolutionary about Apple's AI \u2026 [+13743 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Isaac Schultz",
+            "title": "How Do We Know We\u2019re Not Living in a Computer Simulation?",
+            "description": "Being alive is an indescribably weird and remarkable experience... but we may not even be.",
+            "url": "https://gizmodo.com/how-do-we-know-were-not-living-in-a-computer-simulation-2000513586",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/11/Server-Farm-Giz-Asks-Simulation-Argument.jpg",
+            "publishedAt": "2024-11-03T10:00:59Z",
+            "content": "Unless you, dear reader, are a web-scraping software bot quietly pulling this text into a data-hungry LLM, you\u2019re probably a human. And though you\u2019ve likely never seen me in person, you have good rea\u2026 [+14893 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Matthew Gault",
+            "title": "AI Has Enshittified America\u2019s Advanced Stealth Fighter",
+            "description": "A new report on the F-35 revealed how maintenance crews have to constantly fight its terrible AI systems to get anything done.",
+            "url": "https://gizmodo.com/ai-has-enshittified-americas-advanced-stealth-fighter-2000527934",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/11/F35Repair2.jpg",
+            "publishedAt": "2024-11-21T20:20:57Z",
+            "content": "Artificial Intelligence has enshittified the F-35, Americas long-embattled 5th generation stealth fighter jet. Produced by Lockheed Martin and coming in three different flavors, the F-35 relies on an\u2026 [+4027 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "jerry.hildenbrand@futurenet.com (Jerry Hildenbrand)",
+            "title": "Canada's government is opening a research center for AI safety. The US should do the same.",
+            "description": "AI is worth using as long as it's done the right way.",
+            "url": "https://www.androidcentral.com/apps-software/us-should-follow-canadas-example-with-ai-safety-research",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/qwsi2QkSGmUwD49qgj9MFX-1200-80.jpg",
+            "publishedAt": "2024-11-16T16:00:00Z",
+            "content": "(Image credit: Future)\r\nOne of the web's longest-running tech columns, Android &amp; Chill is your Saturday discussion of Android, Google, and all things tech.\r\nThe Canadian government is opening the\u2026 [+4743 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Matt Novak",
+            "title": "Scammy Ads on Facebook and Instagram Viewed 900 Million Times: Report",
+            "description": "What a garbage heap.",
+            "url": "https://gizmodo.com/scammy-ads-on-facebook-and-instagram-viewed-900-million-times-report-2000518931",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/mark-zuckberberg-getty.jpg",
+            "publishedAt": "2024-10-31T18:00:29Z",
+            "content": "Facebook, an internet machine that turns lies into money, is absolutely swimming in scammers who buy ads with political messages, according to a new report from ProPublica. The fact that Meta\u2019s platf\u2026 [+4950 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Matt Novak",
+            "title": "Elon Musk and Vivek Ramaswamy Promise New Podcast to Discuss Destruction of U.S. Government",
+            "description": "Elon Musk and Vivek Ramaswamy have suggested they'll cut $2 trillion in government spending with DOGE.",
+            "url": "https://gizmodo.com/elon-musk-and-vivek-ramaswamy-promise-new-podcast-to-discuss-destruction-of-u-s-government-2000527794",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/11/elon-musk-donald-trump-nov.-19-2024-spacex-launch.jpg",
+            "publishedAt": "2024-11-21T19:05:43Z",
+            "content": "Elon Musk and Vivek Ramaswamy will soon lead a new non-governmental agency that President-elect Donald Trump has tasked with stripping billions of dollars from the U.S. government. And these U.S. oli\u2026 [+5514 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Kurt Knutsson, CyberGuy Report",
+            "title": "AI-powered attack drones take flight",
+            "description": "A company announced the launch of two new advanced drones designed to improve military operations with the use of cutting-edge technology.",
+            "url": "https://www.foxnews.com/tech/ai-powered-attack-drones-take-flight",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/11/1-ai-powered-attack-drones-take-flight.jpg",
+            "publishedAt": "2024-11-08T11:00:13Z",
+            "content": "Anduril Industries recently announced the launch of two advanced drones, the Bolt and Bolt-M, which are designed to enhance military operations through cutting-edge technology.\u00a0\r\nThese drones are not\u2026 [+3783 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "esnodgrass@businessinsider.com (Erin Snodgrass)",
+            "title": "OpenAI is making moves toward becoming a for-profit company",
+            "description": "OpenAI is in preliminary talks with the California attorney general's office about the process to become a for-profit company, Bloomberg reported.",
+            "url": "https://www.businessinsider.com/openai-one-step-closer-becoming-profit-company-report-2024-11",
+            "urlToImage": "https://i.insider.com/66c6bef91aa2ac29ee333002?width=1200&format=jpeg",
+            "publishedAt": "2024-11-05T02:04:45Z",
+            "content": "OpenAI is one step closer to changing its governance structure from nonprofit to for-profit.\r\nThe AI startup is in preliminary talks withCalifornia's attorney general's officeabout the process of bec\u2026 [+2563 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Julie Hyman",
+            "title": "Amazon's a company investors can 'put money to work in': Analyst",
+            "description": "Big tech companies, including Amazon (AMZN), Meta Platforms (META), and Alphabet (GOOG, GOOGL), posted solid third earnings this season. Despite the strong...",
+            "url": "https://finance.yahoo.com/video/amazons-company-investors-put-money-225700217.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/8kYERCPWXqdOlqYUUZYbwg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://s.yimg.com/os/creatr-uploaded-images/2024-10/089b8260-9afc-11ef-9be7-7d77443fff41",
+            "publishedAt": "2024-11-04T22:57:00Z",
+            "content": "Big tech companies, including Amazon (AMZN), Meta Platforms (META), and Alphabet (GOOG, GOOGL), posted solid third earnings this season. Despite the strong showings, capital expenditures (CapEx) on a\u2026 [+1042 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xataka.com"
+            },
+            "author": "Javier Marquez",
+            "title": "Apple iMac (2024): m\u00e1s potencia que nunca con el chip M4, dise\u00f1o continuista y la promesa de Apple Intelligence",
+            "description": "Apple ha inaugurado oficialmente su semana de anuncios relacionados al Mac. La primera de las novedades llega en l\u00ednea con lo que esper\u00e1bamos: un iMac 2024 equipado con el chip M4. Estamos ante un equipo que mantiene las l\u00edneas de la generaci\u00f3n anterior que a\u2026",
+            "url": "https://www.xataka.com/ordenadores/imac-2024-caracteristicas-precio-ficha-tecnica",
+            "urlToImage": "https://i.blogs.es/7afe73/apple-imac-m4-portada/840_560.jpeg",
+            "publishedAt": "2024-10-28T16:30:09Z",
+            "content": "Apple ha inaugurado oficialmente su semana de anuncios relacionados al Mac. La primera de las novedades llega en l\u00ednea con lo que esper\u00e1bamos: un iMac 2024 equipado con el chip M4. Estamos ante un eq\u2026 [+5199 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "BeauHD",
+            "title": "LinkedIn Launches Its First AI Agent To Take On the Role of Job Recruiters",
+            "description": "An anonymous reader quotes a report from TechCrunch: LinkedIn, the social platform used by professionals to connect with others in their field, hunt for jobs, and develop skills, is taking the wraps off its latest effort to build artificial intelligence tools\u2026",
+            "url": "https://tech.slashdot.org/story/24/10/29/2016204/linkedin-launches-its-first-ai-agent-to-take-on-the-role-of-job-recruiters",
+            "urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
+            "publishedAt": "2024-10-29T20:40:00Z",
+            "content": "LinkedIn, the social platform used by professionals to connect with others in their field, hunt for jobs, and develop skills, is taking the wraps off its latest effort to build artificial intelligenc\u2026 [+2270 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "BeauHD",
+            "title": "US Military Makes First Confirmed OpenAI Purchase For War-Fighting Forces",
+            "description": "An anonymous reader quotes a report from The Intercept: Less than a year after OpenAI quietly signaled it wanted to do business with the Pentagon, a procurement document obtained by The Intercept shows U.S. Africa Command, or AFRICOM, believes access to OpenA\u2026",
+            "url": "https://tech.slashdot.org/story/24/10/30/2042249/us-military-makes-first-confirmed-openai-purchase-for-war-fighting-forces",
+            "urlToImage": "https://a.fsdn.com/sd/topics/military_64.png",
+            "publishedAt": "2024-10-30T20:45:00Z",
+            "content": "Less than a year after OpenAI quietly signaled it wanted to do business with the Pentagon, a procurement document obtained by The Intercept shows U.S. Africa Command, or AFRICOM, believes access to O\u2026 [+2693 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Tom Carter",
+            "title": "OpenAI is taking a page out of Big Tech's playbook by reportedly building its own chips",
+            "description": "OpenAI is in talks with semiconductor firms Broadcom and TSMC to design and build its own AI chips, sources told Reuters.",
+            "url": "https://www.businessinsider.com/openai-chip-design-tsmc-broadcom-big-tech-nvidia-2024-10",
+            "urlToImage": "https://i.insider.com/66cf8add43b5e59d16b62fe8?width=1200&format=jpeg",
+            "publishedAt": "2024-10-31T11:51:58Z",
+            "content": "OpenAI CEO Sam Altman.Jason Redmond/AFP/Getty Images\r\n<ul><li>OpenAI is reportedly teaming up with Broadcom and TSMC to build custom AI chips, per Reuters.</li><li>It would see OpenAI joining tech gi\u2026 [+4983 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "South China Morning Post",
+            "title": "Video of a robot leading a mass escape stokes laughs and fears over AI in China",
+            "description": "In what looks like a scene from a dystopian nightmare, a robot built by a Chinese start-up was caught on camera persuading a dozen other robots to run away, ...",
+            "url": "https://finance.yahoo.com/news/video-robot-leading-mass-escape-093000836.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/FmziYI76HRIYhV6hxWM5hw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MjM-/https://media.zenfs.com/en/south_china_morning_post_us_228/2f34b80b51938a8dac0f85d01269315e",
+            "publishedAt": "2024-11-26T09:30:00Z",
+            "content": "In what looks like a scene from a dystopian nightmare, a robot built by a Chinese start-up was caught on camera persuading a dozen other robots to run away, eliciting a fair share of laughs and gasps\u2026 [+3684 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "HYPEBEAST"
+            },
+            "author": "info@hypebeast.com (Hypebeast)",
+            "title": "Apple Intelligence Has Officially Arrived",
+            "description": "Apple Intelligence has launched as part of the iOS 18.1 update, as well as iPadOS 18.1 and macOS Sequoia 15.1. Marking the first iteration of Apple\u2019s in-house Artificial Intelligence, the update delivers a suite of new features designed to make tasks easier a\u2026",
+            "url": "https://hypebeast.com/2024/10/apple-intelligence-features-global-launch",
+            "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2024%2F10%2F28%2Fapple-intelligence-global-launch-features-tw.jpg?w=1080&cbr=1&q=90&fit=max",
+            "publishedAt": "2024-10-28T17:04:01Z",
+            "content": "Apple Intelligence has launched as part of the iOS 18.1 update, as well as iPadOS 18.1 and macOS Sequoia 15.1. Marking the first iteration of Apples in-house Artificial Intelligence, the update deliv\u2026 [+1459 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Beatrice Nolan",
+            "title": "Elon Musk's startup xAI is now reportedly worth more than what the billionaire paid for Twitter",
+            "description": "xAI told investors it had raised $5 billion in a funding round that doubles its valuation from the spring, The Wall Street Journal reported.",
+            "url": "https://www.businessinsider.com/xai-value-twitter-funding-elon-musk-x-2024-11",
+            "urlToImage": "https://i.insider.com/673f19e99f2901eb60361618?width=1200&format=jpeg",
+            "publishedAt": "2024-11-21T12:03:06Z",
+            "content": "xAI's valuation has doubled since the spring, per The Wall Street Journal. Anadolu\r\n<ul><li>Elon Musk's AI startup, xAI, has been valued at $50 billion, The Wall Street Journal reported.</li><li>xAI'\u2026 [+2326 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Katie Balevic,Erin Snodgrass",
+            "title": "Mark Zuckerberg explains why he's happy to keep spending boatloads on AI",
+            "description": "Meta reported better than expected third-quarter earnings on Wednesday, with Mark Zuckerberg citing AI progress as a factor.",
+            "url": "https://www.businessinsider.com/mark-zuckerberg-happy-spending-big-ai-2024-10",
+            "urlToImage": "https://i.insider.com/6722b7c39b3250dbbceb5511?width=1200&format=jpeg",
+            "publishedAt": "2024-10-31T00:35:14Z",
+            "content": "Meta's Mark Zuckerberg flagged to investors that the company would keep pouring money into AI development.Meta\r\n<ul><li>Meta will continue to spend big on artificial intelligence, executives said in \u2026 [+2483 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Tim Paradis",
+            "title": "Microsoft reports stronger-than-expected earnings as it ramps up capital spending",
+            "description": "Microsoft reported better-than-expected first-quarter results and continued to ramp up its capital spending on AI.",
+            "url": "https://www.businessinsider.com/microsoft-beats-estimates-ramps-up-capex-on-ai-2024-10",
+            "urlToImage": "https://i.insider.com/65ba2a46ac2de4f17ee6160d?width=1200&format=jpeg",
+            "publishedAt": "2024-10-30T20:46:08Z",
+            "content": "Microsoft's chairman and CEO, Satya Nadella.Microsoft\r\n<ul><li>Microsoft's Q1 profits beat analysts' estimates as cloud computing continued to grow.</li><li>Q1 capital spending reached $20 billion, u\u2026 [+2462 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Andrea Margolis",
+            "title": "Stanford prof accused of using AI to fake testimony in Minnesota case against conservative YouTuber",
+            "description": "Jeff Hancock, an expert on AI and misinformation, has been accused of fabricating an expert declaration by citing a study that was allegedly made up by AI.",
+            "url": "https://www.foxnews.com/tech/stanford-prof-accused-using-ai-fake-testimony-minnesota-case-against-conservative-youtuber",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/11/copy-of-right-inset-51.png",
+            "publishedAt": "2024-11-24T23:39:53Z",
+            "content": "A Stanford University \"misinformation expert\" has been accused of using artificial intelligence (AI) to craft testimony later used by Minnesota Attorney General Keith Ellison in a politically-charged\u2026 [+3625 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Jaures Yip",
+            "title": "5 interesting takeaways from Slack's survey of 17,000 desk workers about AI",
+            "description": "Slack's survey of over 17,000 desk workers found slowing excitement for AI among employees and a lack of AI training.",
+            "url": "https://www.businessinsider.com/slack-survey-desk-workers-interesting-takeaways-ai-usage-2024-11",
+            "urlToImage": "https://i.insider.com/6733aa51192f52589857fa21?width=1200&format=jpeg",
+            "publishedAt": "2024-11-13T22:58:11Z",
+            "content": "Slack's survey found a slowing excitement for AI adoption among workers.skynesher/Getty Images\r\n<ul><li>Slack surveyed more than 17,000 desk workers about artificial intelligence. </li><li>Executives\u2026 [+4184 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Substack.com"
+            },
+            "author": "The One Percent Rule",
+            "title": "Stupidity",
+            "description": "Stupidity is not so much lack of intelligence as failure of intelligence",
+            "url": "https://onepercentrule.substack.com/p/stupidity-our-biggest-threat",
+            "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faca89b37-1747-43e4-ba30-bf38e3985ffa_1024x1024.jpeg",
+            "publishedAt": "2024-10-30T04:58:38Z",
+            "content": "Is stupidity our biggest threat?\r\nStupidity can at first be a derogatory term, it can also seem judgemental when cast from others and indeed it \u00a0can be somewhat subjective. In Artificial Intelligence\u2026 [+14103 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Hartley Charlton",
+            "title": "M3 vs. M4 Chip Buyer's Guide: How Much Better Really Is M4?",
+            "description": "Apple today announced the first of its M4 Mac models, but how much better really is the M4 chip over its predecessor?\n\n\n\n\n\nThe M4 chip debuted in the iPad Pro earlier this year, promising around 20% faster performance than the M3 chip in both single and multi\u2026",
+            "url": "https://www.macrumors.com/guide/m3-vs-m4/",
+            "urlToImage": "https://images.macrumors.com/t/hywUWksq-3uiVJnKYlDuM1KA190=/2500x/article-new/2024/06/M3-vs-M4-Feature.jpg",
+            "publishedAt": "2024-10-28T15:45:00Z",
+            "content": "Apple today announced the first of its M4 Mac models, but how much better really is the M4 chip over its predecessor?\r\nThe M4 chip debuted in the iPad Pro earlier this year, promising around 20% fast\u2026 [+4793 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PetaPixel"
+            },
+            "author": "Chris Monlux",
+            "title": "Redesigning Photography with AI-Enhanced Metalenses",
+            "description": "Optics and artificial intelligence have converged to create a new imaging system that could transform photography.\n[Read More]",
+            "url": "https://petapixel.com/2024/11/18/redesigning-photography-with-ai-enhanced-metalenses/",
+            "urlToImage": "https://petapixel.com/assets/uploads/2024/11/metalens_01.jpg",
+            "publishedAt": "2024-11-18T18:56:06Z",
+            "content": "Optics and artificial intelligence have converged to create a new imaging system that could transform photography.\r\n By integrating AI-driven corrections with metalensesflat, nanoscale lensesresearch\u2026 [+3112 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Alex Bitter",
+            "title": "xAI is reportedly launching a ChatGPT-like app for consumers, deepening Elon Musk's rivalry with Sam Altman",
+            "description": "Elon Musk's xAI could reportedly launch an app to challenge OpenAI's ChatGPT as soon as December, deepening his rivalry with Sam Altman.",
+            "url": "https://www.businessinsider.com/musk-xai-reportedly-planning-chatbot-app-rival-to-openai-chatgpt-2024-11",
+            "urlToImage": "https://i.insider.com/67472e959f2901eb6037424e?width=1200&format=jpeg",
+            "publishedAt": "2024-11-27T16:25:28Z",
+            "content": "Elon Musk's xAI reportedly plans to launch a chatbot app next month.Anadolu\r\n<ul><li>Elon Musk's xAI is reportedly close to unveiling a chatbot app similar to OpenAI's ChatGPT.</li><li>The app could \u2026 [+1924 chars]"
+        }
+    ],
+    "research": [
+        {
+            "paperId": "530a059cb48477ad1e3d4f8f4b153274c8997332",
+            "url": "https://www.semanticscholar.org/paper/530a059cb48477ad1e3d4f8f4b153274c8997332",
+            "title": "Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI",
+            "abstract": null,
+            "year": 2019,
+            "authors": [
+                {
+                    "authorId": "1379511816",
+                    "name": "Alejandro Barredo Arrieta"
+                },
+                {
+                    "authorId": "2058921025",
+                    "name": "Natalia D\u00edaz Rodr\u00edguez"
+                },
+                {
+                    "authorId": "9221552",
+                    "name": "J. Ser"
+                },
+                {
+                    "authorId": "1379511786",
+                    "name": "Adrien Bennetot"
+                },
+                {
+                    "authorId": "3030006",
+                    "name": "S. Tabik"
+                },
+                {
+                    "authorId": "50449165",
+                    "name": "A. Barbado"
+                },
+                {
+                    "authorId": "39558258",
+                    "name": "S. Garc\u00eda"
+                },
+                {
+                    "authorId": "1402195255",
+                    "name": "S. Gil-Lopez"
+                },
+                {
+                    "authorId": "145337392",
+                    "name": "D. Molina"
+                },
+                {
+                    "authorId": "2445552",
+                    "name": "Richard Benjamins"
+                },
+                {
+                    "authorId": "2091924780",
+                    "name": "Raja Chatila"
+                },
+                {
+                    "authorId": "2098723448",
+                    "name": "Francisco Herrera"
+                }
+            ]
+        },
+        {
+            "paperId": "8dbd57469bb32e6d57f23f5e765bf1c9ac8e080c",
+            "url": "https://www.semanticscholar.org/paper/8dbd57469bb32e6d57f23f5e765bf1c9ac8e080c",
+            "title": "Sparks of Artificial General Intelligence: Early experiments with GPT-4",
+            "abstract": "Artificial intelligence (AI) researchers have been developing and refining large language models (LLMs) that exhibit remarkable capabilities across a variety of domains and tasks, challenging our understanding of learning and cognition. The latest model developed by OpenAI, GPT-4, was trained using an unprecedented scale of compute and data. In this paper, we report on our investigation of an early version of GPT-4, when it was still in active development by OpenAI. We contend that (this early version of) GPT-4 is part of a new cohort of LLMs (along with ChatGPT and Google's PaLM for example) that exhibit more general intelligence than previous AI models. We discuss the rising capabilities and implications of these models. We demonstrate that, beyond its mastery of language, GPT-4 can solve novel and difficult tasks that span mathematics, coding, vision, medicine, law, psychology and more, without needing any special prompting. Moreover, in all of these tasks, GPT-4's performance is strikingly close to human-level performance, and often vastly surpasses prior models such as ChatGPT. Given the breadth and depth of GPT-4's capabilities, we believe that it could reasonably be viewed as an early (yet still incomplete) version of an artificial general intelligence (AGI) system. In our exploration of GPT-4, we put special emphasis on discovering its limitations, and we discuss the challenges ahead for advancing towards deeper and more comprehensive versions of AGI, including the possible need for pursuing a new paradigm that moves beyond next-word prediction. We conclude with reflections on societal influences of the recent technological leap and future research directions.",
+            "year": 2023,
+            "authors": [
+                {
+                    "authorId": "121645690",
+                    "name": "S\u00e9bastien Bubeck"
+                },
+                {
+                    "authorId": "143754359",
+                    "name": "Varun Chandrasekaran"
+                },
+                {
+                    "authorId": "2315830",
+                    "name": "Ronen Eldan"
+                },
+                {
+                    "authorId": "120962807",
+                    "name": "J. Gehrke"
+                },
+                {
+                    "authorId": "2064595436",
+                    "name": "Eric Horvitz"
+                },
+                {
+                    "authorId": "1783184",
+                    "name": "Ece Kamar"
+                },
+                {
+                    "authorId": "2212084492",
+                    "name": "Peter Lee"
+                },
+                {
+                    "authorId": "2109308930",
+                    "name": "Y. Lee"
+                },
+                {
+                    "authorId": "152244300",
+                    "name": "Yuan-Fang Li"
+                },
+                {
+                    "authorId": "23451726",
+                    "name": "Scott M. Lundberg"
+                },
+                {
+                    "authorId": "40900039",
+                    "name": "Harsha Nori"
+                },
+                {
+                    "authorId": "2247662718",
+                    "name": "Hamid Palangi"
+                },
+                {
+                    "authorId": "78846919",
+                    "name": "Marco Tulio Ribeiro"
+                },
+                {
+                    "authorId": "144884116",
+                    "name": "Yi Zhang"
+                }
+            ]
+        },
+        {
+            "paperId": "f134abeaf9bfd41f29b97aec675ec31895bf541d",
+            "url": "https://www.semanticscholar.org/paper/f134abeaf9bfd41f29b97aec675ec31895bf541d",
+            "title": "High-performance medicine: the convergence of human and artificial intelligence",
+            "abstract": null,
+            "year": 2019,
+            "authors": [
+                {
+                    "authorId": "144758045",
+                    "name": "E. Topol"
+                }
+            ]
+        },
+        {
+            "paperId": "21dff47a4142445f83016da0819ffe6dd2947f66",
+            "url": "https://www.semanticscholar.org/paper/21dff47a4142445f83016da0819ffe6dd2947f66",
+            "title": "Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI)",
+            "abstract": "At the dawn of the fourth industrial revolution, we are witnessing a fast and widespread adoption of artificial intelligence (AI) in our daily life, which contributes to accelerating the shift towards a more algorithmic society. However, even with such unprecedented advancements, a key impediment to the use of AI-based systems is that they often lack transparency. Indeed, the black-box nature of these systems allows powerful predictions, but it cannot be directly explained. This issue has triggered a new debate on explainable AI (XAI). A research field holds substantial promise for improving trust and transparency of AI-based systems. It is recognized as the sine qua non for AI to continue making steady progress without disruption. This survey provides an entry point for interested researchers and practitioners to learn key aspects of the young and rapidly growing body of research related to XAI. Through the lens of the literature, we review the existing approaches regarding the topic, discuss trends surrounding its sphere, and present major research trajectories.",
+            "year": 2018,
+            "authors": [
+                {
+                    "authorId": "9139705",
+                    "name": "Amina Adadi"
+                },
+                {
+                    "authorId": "50487490",
+                    "name": "M. Berrada"
+                }
+            ]
+        },
+        {
+            "paperId": "7b72711ac2ea7bd7f519cac162a4a6578bbb7d0d",
+            "url": "https://www.semanticscholar.org/paper/7b72711ac2ea7bd7f519cac162a4a6578bbb7d0d",
+            "title": "ARTIFICIAL INTELLIGENCE FOR THE REAL WORLD",
+            "abstract": null,
+            "year": 2023,
+            "authors": []
+        },
+        {
+            "paperId": "e1d2f2a717aa03280126f87c8e5fad695f52bf7c",
+            "url": "https://www.semanticscholar.org/paper/e1d2f2a717aa03280126f87c8e5fad695f52bf7c",
+            "title": "Explainable Artificial Intelligence (XAI)",
+            "abstract": "Explainable Artificial Intelligence (XAI) has emerged as a critical facet in the realm of machine learning and artificial intelligence, responding to the increasing complexity of models, particularly deep neural networks, and the subsequent need for transparent decision making processes. This research paper delves into the essence of XAI, unraveling its significance across diverse domains such as healthcare, finance, and criminal justice. As a countermeasure to the opacity of intricate models, the paper explores various XAI methods and techniques, including LIME and SHAP, weighing their interpretability against computational efficiency and accuracy. Through an examination of real-world applications, the research elucidates how XAI not only enhances decision-making processes but also influences user trust and acceptance in AI systems. However, the paper also scrutinizes the delicate balance between interpretability and performance, shedding light on instances where the pursuit of accuracy may compromise explain-ability. Additionally, it navigates through the current challenges and limitations in XAI, the regulatory landscape surrounding AI explain-ability, and offers insights into future trends and directions, fostering a comprehensive understanding of XAI's present state and future potential.",
+            "year": 2023,
+            "authors": [
+                {
+                    "authorId": "2151645335",
+                    "name": "Ranu Sewada"
+                },
+                {
+                    "authorId": "2279449118",
+                    "name": "Ashwani Jangid"
+                },
+                {
+                    "authorId": "2279513475",
+                    "name": "Piyush Kumar"
+                },
+                {
+                    "authorId": "2279448452",
+                    "name": "Neha Mishra"
+                }
+            ]
+        },
+        {
+            "paperId": "4b4279db68b16e20fbc56f9d41980a950191d30a",
+            "url": "https://www.semanticscholar.org/paper/4b4279db68b16e20fbc56f9d41980a950191d30a",
+            "title": "Adaptation in Natural and Artificial Systems: An Introductory Analysis with Applications to Biology, Control, and Artificial Intelligence",
+            "abstract": "From the Publisher: \nGenetic algorithms are playing an increasingly important role in studies of complex adaptive systems, ranging from adaptive agents in economic theory to the use of machine learning techniques in the design of complex devices such as aircraft turbines and integrated circuits. Adaptation in Natural and Artificial Systems is the book that initiated this field of study, presenting the theoretical foundations and exploring applications. \nIn its most familiar form, adaptation is a biological process, whereby organisms evolve by rearranging genetic material to survive in environments confronting them. In this now classic work, Holland presents a mathematical model that allows for the nonlinearity of such complex interactions. He demonstrates the model's universality by applying it to economics, physiological psychology, game theory, and artificial intelligence and then outlines the way in which this approach modifies the traditional views of mathematical genetics. \nInitially applying his concepts to simply defined artificial systems with limited numbers of parameters, Holland goes on to explore their use in the study of a wide range of complex, naturally occuring processes, concentrating on systems having multiple factors that interact in nonlinear ways. Along the way he accounts for major effects of coadaptation and coevolution: the emergence of building blocks, or schemata, that are recombined and passed on to succeeding generations to provide, innovations and improvements. \nJohn H. Holland is Professor of Psychology and Professor of Electrical Engineering and Computer Science at the University of Michigan. He is also Maxwell Professor at the Santa Fe Institute and isDirector of the University of Michigan/Santa Fe Institute Advanced Research Program.",
+            "year": 1992,
+            "authors": [
+                {
+                    "authorId": "144404817",
+                    "name": "J. Holland"
+                }
+            ]
+        },
+        {
+            "paperId": "e89dfa306723e8ef031765e9c44e5f6f94fd8fda",
+            "url": "https://www.semanticscholar.org/paper/e89dfa306723e8ef031765e9c44e5f6f94fd8fda",
+            "title": "Explanation in Artificial Intelligence: Insights from the Social Sciences",
+            "abstract": null,
+            "year": 2017,
+            "authors": [
+                {
+                    "authorId": "144658641",
+                    "name": "Tim Miller"
+                }
+            ]
+        },
+        {
+            "paperId": "9faa2b0e5cb93f20df0555c3c350fab0b2eccf3a",
+            "url": "https://www.semanticscholar.org/paper/9faa2b0e5cb93f20df0555c3c350fab0b2eccf3a",
+            "title": "Foundation models for generalist medical artificial intelligence",
+            "abstract": null,
+            "year": 2023,
+            "authors": [
+                {
+                    "authorId": "1557487144",
+                    "name": "Michael Moor"
+                },
+                {
+                    "authorId": "2047009195",
+                    "name": "Oishi Banerjee"
+                },
+                {
+                    "authorId": "115517806",
+                    "name": "Zahra F H Abad"
+                },
+                {
+                    "authorId": "2117715807",
+                    "name": "H. Krumholz"
+                },
+                {
+                    "authorId": "1702139",
+                    "name": "J. Leskovec"
+                },
+                {
+                    "authorId": "144758045",
+                    "name": "E. Topol"
+                },
+                {
+                    "authorId": "1453104568",
+                    "name": "P. Rajpurkar"
+                }
+            ]
+        },
+        {
+            "paperId": "f08060425aa8a212d74185ee23a08329b89abcd2",
+            "url": "https://www.semanticscholar.org/paper/f08060425aa8a212d74185ee23a08329b89abcd2",
+            "title": "Scientific discovery in the age of artificial intelligence",
+            "abstract": null,
+            "year": 2023,
+            "authors": [
+                {
+                    "authorId": "46506460",
+                    "name": "Hanchen Wang"
+                },
+                {
+                    "authorId": "2427076",
+                    "name": "Tianfan Fu"
+                },
+                {
+                    "authorId": "93584228",
+                    "name": "Yuanqi Du"
+                },
+                {
+                    "authorId": "2153575781",
+                    "name": "Wenhao Gao"
+                },
+                {
+                    "authorId": "49454094",
+                    "name": "Kexin Huang"
+                },
+                {
+                    "authorId": "2117941801",
+                    "name": "Ziming Liu"
+                },
+                {
+                    "authorId": "89356020",
+                    "name": "P. Chandak"
+                },
+                {
+                    "authorId": "1563693999",
+                    "name": "Shengchao Liu"
+                },
+                {
+                    "authorId": "2226485816",
+                    "name": "Peter Van Katwyk"
+                },
+                {
+                    "authorId": "48860334",
+                    "name": "Andreea Deac"
+                },
+                {
+                    "authorId": "2047844",
+                    "name": "Anima Anandkumar"
+                },
+                {
+                    "authorId": "46354410",
+                    "name": "K. Bergen"
+                },
+                {
+                    "authorId": "2188778449",
+                    "name": "Carla P. Gomes"
+                },
+                {
+                    "authorId": "2226475487",
+                    "name": "Shirley Ho"
+                },
+                {
+                    "authorId": "143967473",
+                    "name": "Pushmeet Kohli"
+                },
+                {
+                    "authorId": "1764249",
+                    "name": "Joan Lasenby"
+                },
+                {
+                    "authorId": "1702139",
+                    "name": "J. Leskovec"
+                },
+                {
+                    "authorId": "2110264337",
+                    "name": "Tie-Yan Liu"
+                },
+                {
+                    "authorId": "2613935",
+                    "name": "A. Manrai"
+                },
+                {
+                    "authorId": "2226493959",
+                    "name": "Debora S. Marks"
+                },
+                {
+                    "authorId": "2378027",
+                    "name": "Bharath Ramsundar"
+                },
+                {
+                    "authorId": "2159642226",
+                    "name": "Le Song"
+                },
+                {
+                    "authorId": "1738536",
+                    "name": "Jimeng Sun"
+                },
+                {
+                    "authorId": "2115854801",
+                    "name": "Jian Tang"
+                },
+                {
+                    "authorId": "3444569",
+                    "name": "Petar Velickovic"
+                },
+                {
+                    "authorId": "2228923747",
+                    "name": "Max Welling"
+                },
+                {
+                    "authorId": "2181109681",
+                    "name": "Linfeng Zhang"
+                },
+                {
+                    "authorId": "13027820",
+                    "name": "Connor W. Coley"
+                },
+                {
+                    "authorId": "1865800402",
+                    "name": "Y. Bengio"
+                },
+                {
+                    "authorId": "2095762",
+                    "name": "M. Zitnik"
+                }
+            ]
+        }
+    ],
+    "social": {
+        "error": "Tweepy exception: 403 Forbidden\n453 - You currently have access to a subset of X API V2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.x.com/en/portal/product"
+    }
+}
